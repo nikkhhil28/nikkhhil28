@@ -1,74 +1,89 @@
-# Hey, I'm Nikhil Upadhyay 👋
+<div align="center">
 
-### Computer Science Engineering Student • Backend & AI Enthusiast • Builder
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=4&width=800&animation=fadeIn" />
 
-I'm a CSE student who enjoys turning ideas into working software.
+<br><br>
 
-Currently focused on **backend engineering, DSA, GenAI, distributed systems, and building projects that solve actual problems.**
+# NIKHIL UPADHYAY
 
-I like understanding what's happening behind the UI — APIs, databases, system architecture, concurrency, AI pipelines, and the engineering decisions that make applications work.
+<sub>COMPUTER SCIENCE STUDENT — BACKEND & SYSTEMS</sub>
 
----
+<br>
 
-## 🚀 What I'm Building
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=560&letterSpacing=1px&lines=building+things+that+work;learning+how+systems+break;algorithms+×+backend+×+systems+×+AI" />
 
-### 🧠 CareerPilot
-**AI-powered career management & job application system**
+<br>
 
-CareerPilot combines **FastAPI + Next.js + Gemini + SQLite + MCP** to help users:
+<a href="https://github.com/nikkhhil28"><img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=6366F1" /></a>
+<a href="https://www.linkedin.com/in/nikhil-upadhyay-3547ba2b4/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=6366F1" /></a>
+<a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-111111?style=flat-square&logo=leetcode&logoColor=6366F1" /></a>
+<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=6366F1" /></a>
 
-- Import and maintain a structured career profile
-- Analyze job descriptions using GenAI
-- Identify matching skills and skill gaps
-- Get AI-assisted application insights
-- Generate job-specific resumes
-- Track applications
+</div>
 
-> **The goal isn't just to generate a resume — it's to build an intelligent system around the entire job-application workflow.**
+<br>
 
-🔗 [View CareerPilot →](https://github.com/nikkhhil28/CareerPilot)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=2&width=800&animation=fadeIn" width="100%"/>
 
----
+## About
 
-## 🛠️ Tech I'm Working With
+I like turning ideas into software, and figuring out why they stop working a day later.
+Most of my time goes into backend systems, architecture, and the occasional detour into AI.
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+I care more about *why* a technology exists than what it's called — the decisions
+behind an API, a schema, or an architecture matter more to me than the syntax.
 
-### Backend & Web
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=2&width=800&animation=fadeIn" width="100%"/>
 
-### Databases & Infrastructure
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## Focus
 
-### AI & Developer Tools
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-111827?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**Currently**
+- Deepening backend & systems fundamentals
+- Exploring GenAI, MCP, and system design
+- Writing C++ daily, building with Python & JS
 
-## 🧩 Currently Learning
+</td>
+<td width="50%" valign="top">
 
-```text
-DSA in C++
-        ↓
-Backend Engineering
-        ↓
-System Design & Distributed Systems
-        ↓
-GenAI + AI Agents + MCP
-        ↓
-Building production-oriented projects
+**Interested in**
+- Distributed systems & architecture
+- Concurrency, caching, databases
+- Problem solving, first principles
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=2&width=800&animation=fadeIn" width="100%"/>
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nextjs,fastapi,nodejs,postgres,redis,docker,git&theme=dark&perline=11" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=2&width=800&animation=fadeIn" width="100%"/>
+
+## Elsewhere
+
+```
+football  ·  music  ·  travel  ·  late-night debugging
+```
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=4&width=800&animation=fadeIn" />
+
+<br>
+
+<sub>thanks for stopping by</sub>
+
+</div>
